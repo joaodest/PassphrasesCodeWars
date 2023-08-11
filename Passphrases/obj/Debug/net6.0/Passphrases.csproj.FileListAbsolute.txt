@@ -1,0 +1,15 @@
+C:\Users\joaod\source\repos\Passphrases\Passphrases\bin\Debug\net6.0\Passphrases.exe
+C:\Users\joaod\source\repos\Passphrases\Passphrases\bin\Debug\net6.0\Passphrases.deps.json
+C:\Users\joaod\source\repos\Passphrases\Passphrases\bin\Debug\net6.0\Passphrases.runtimeconfig.json
+C:\Users\joaod\source\repos\Passphrases\Passphrases\bin\Debug\net6.0\Passphrases.dll
+C:\Users\joaod\source\repos\Passphrases\Passphrases\bin\Debug\net6.0\Passphrases.pdb
+C:\Users\joaod\source\repos\Passphrases\Passphrases\obj\Debug\net6.0\Passphrases.csproj.AssemblyReference.cache
+C:\Users\joaod\source\repos\Passphrases\Passphrases\obj\Debug\net6.0\Passphrases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaod\source\repos\Passphrases\Passphrases\obj\Debug\net6.0\Passphrases.AssemblyInfoInputs.cache
+C:\Users\joaod\source\repos\Passphrases\Passphrases\obj\Debug\net6.0\Passphrases.AssemblyInfo.cs
+C:\Users\joaod\source\repos\Passphrases\Passphrases\obj\Debug\net6.0\Passphrases.csproj.CoreCompileInputs.cache
+C:\Users\joaod\source\repos\Passphrases\Passphrases\obj\Debug\net6.0\Passphrases.dll
+C:\Users\joaod\source\repos\Passphrases\Passphrases\obj\Debug\net6.0\refint\Passphrases.dll
+C:\Users\joaod\source\repos\Passphrases\Passphrases\obj\Debug\net6.0\Passphrases.pdb
+C:\Users\joaod\source\repos\Passphrases\Passphrases\obj\Debug\net6.0\Passphrases.genruntimeconfig.cache
+C:\Users\joaod\source\repos\Passphrases\Passphrases\obj\Debug\net6.0\ref\Passphrases.dll
