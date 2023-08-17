@@ -8,8 +8,11 @@ public class Solution
     {
         string input = "BORN IN 2015!";
         int shift = 1;
+        char c1 = (char)97;
+        char c = Convert.ToChar(2);
         Console.WriteLine(PlayPass.playPass("MY GRANMA CAME FROM NY ON THE 23RD OF APRIL 2015", 2));
-        
+
+
 
     }
 }
@@ -28,17 +31,19 @@ public class PlayPass
         {
             if (char.IsLetter(c))
             {
-                char shifted = (char)(c + shiftNumber);
+                
                 if (char.IsLower(c))
                 {
+                    char shifted = (char)('a' + (c - 'a' + shiftNumber) % 26);
                     transformed.Append(shifted);
                 }
                 else
                 {
+                    char shifted = (char)('A' + (c - 'A' + shiftNumber) % 26);
                     transformed.Append(char.ToUpper(shifted));
                 }
             }
-            else if (char.IsLetterOrDigit(c))
+            else if (char.IsDigit(c))
             {
                 transformed.Append(9 - (c - '0')).ToString();
             }
